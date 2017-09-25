@@ -1,0 +1,3 @@
+graphql_rules_mutation:
+  label: 'When executing a GraphQL Mutation'
+  class: '\Drupal\graphql\Plugin\RulesEvent\MutationRulesEvent'

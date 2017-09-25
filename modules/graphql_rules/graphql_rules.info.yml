@@ -1,0 +1,8 @@
+name: GraphQL Rules
+type: module
+description: 'Run mutations based on configured Rules.'
+package: GraphQL
+core: 8.x
+dependencies:
+  - graphql_core
+  - rules
